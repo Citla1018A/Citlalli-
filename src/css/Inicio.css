@@ -1,0 +1,46 @@
+@media ( min-width:320px) {
+*{
+    background-color: #38404B;
+}
+.col{
+    margin-top: 20em;
+    font-size:4em;
+    color: #94ADCF;
+    font-family: unset;
+}
+.form-control{
+    min-width: 10px;
+    font-family: unset;
+    color: #94ADCF;
+    background-color: #38404B;
+    border: 10px;
+}
+.img{
+    height: 20px;
+    width: 20px;
+    color: #FFFFFF;
+}
+.btn-block{
+    border: 1px;
+    padding: 10px;
+}
+.col-auto{
+    padding-bottom: 1em;
+    padding-top: 2em;
+}
+.list-group{
+    font-family: unset;
+    color: #94ADCF;
+    background-color: #38404B;
+}
+.list-group-item{
+    font-family: unset;
+    color: #94ADCF;
+    background-color: #38404B;
+}
+.text-center-m{
+    padding-bottom: 0em;
+    padding-top: 1em;
+    text-align: left;
+}
+}
